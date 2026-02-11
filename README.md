@@ -28,4 +28,4 @@
 ## 📫 Connect With Me
 
 📧 Sanjay4ur2005@gmail.com  
-🔗 (Add your LinkedIn link here)
+🔗 www.linkedin.com/in/sanjay-aiml
