@@ -15,24 +15,13 @@
 
 ---
 
-## 📌 Featured Projects
 
-### 🏥 AI Hospital Queue Prediction System
-Predicts patient waiting time using machine learning models to reduce hospital crowding.
-
-### 📊 Student Performance Predictor
-Analyzes student data and predicts academic outcomes using ML.
-
-### 🎵 Music Mood Detection using AI
-Detects the mood of music tracks using AI algorithms.
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asdfghjk41&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asdfghjk41&layout=compact&theme=tokyonight)
+
 
 ---
 
